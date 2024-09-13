@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/Frame 1(5).png</file>
+        <file>icons/Frame 1(4).png</file>
+        <file>icons/Frame 1(3).png</file>
+        <file>icons/Frame 1(2).png</file>
+        <file>icons/Frame 1(1).png</file>
+        <file>icons/Frame 1.png</file>
+        <file>JobTile.qml</file>
+        <file>ShadowRectangle.qml</file>
+    </qresource>
+</RCC>
